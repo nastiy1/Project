@@ -1,23 +1,5 @@
-Visual studio
-/Lesson1/Lesson1/.vs/Lesson1/v16
-/Lesson1/Lesson1/obj
-/Lesson1/Lesson1/bin/Debug/netcoreapp3.1
-/Lesson2_1/obj
-/Lesson2_1/bin/Debug/netcoreapp3.1
-/Lesson2_1/.vs/Lesson2_1/v16
-/Lesson2_2/obj
-/Lesson2_2/bin/Debug/netcoreapp3.1
-/Lesson2_2/.vs/Lesson2_2/v16
-/Ссылка на pull-request_2.1.txt
-/Lesson2_1/.vs/Lesson2_1/DesignTimeBuild
-/Lesson2_3/.vs/Lesson2_3/v16/Server/sqlite3
-*.suo
-/Lesson2_3/obj/Debug/netcoreapp3.1
-/Lesson2_3/obj
-/Lesson2_3/bin/Debug/netcoreapp3.1
-/Lesson2_3/.vs/Lesson2_3/DesignTimeBuild
-/Lesson2_4/obj
-/Lesson2_4/bin/Debug/netcoreapp3.1
-/Lesson2_4/.vs/Lesson2_4/v16/Server/sqlite3
-/Lesson2_4
-/Ссылка на pull-request_2.txt
+﻿################################################################################
+# Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
+################################################################################
+
+/Lesson1/Lesson1/.vs/Lesson1/v16/.suo
