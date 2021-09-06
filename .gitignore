@@ -133,3 +133,5 @@
 *.txt
 *.props
 *.targets
+/Lesson3_2/Lesson3_2.sln
+/Lesson3_2/Lesson3_2.csproj
