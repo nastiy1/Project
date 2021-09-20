@@ -9,8 +9,10 @@ using System;
 namespace Lesson7_1
 {
   internal class Program
-  {
-    private static void Main(string[] args)
+    /*Написать любое приложение, произвести его сборку с помощью MSBuild, 
+    * осуществить декомпиляцию с помощью dotPeek, внести правки в программный код и пересобрать приложение. */
+    {
+        private static void Main(string[] args)
     {
       string str = "2345";
       Console.WriteLine("Enter password:");
